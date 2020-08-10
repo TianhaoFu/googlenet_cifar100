@@ -4,7 +4,7 @@ googlenet的Pytorch实现。
 
 ## 1-数据集：cifar-100
 
-## 2-参数(name	value)
+## 2-超参
 
 
 Model structure：	Googlenet
