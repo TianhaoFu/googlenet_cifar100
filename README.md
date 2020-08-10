@@ -23,7 +23,7 @@ Batchsize：	32
 
 Optimizer：	Momentum
 
-Nesterov： momentum	0.9
+Nesterov momentum： 	0.9
 
 Learning rate(initial)：	0.01
 
