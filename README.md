@@ -4,9 +4,8 @@ googlenet的Pytorch实现。
 
 ## 数据集：cifar-100
 
-## 参数
+## 参数(name	value)
 
-name	value
 
 Model structure：	Googlenet
 
