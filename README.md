@@ -1,6 +1,6 @@
 # googlenet_cifar100
 
-# googlenet的Pytorch实现。
+googlenet的Pytorch实现。
 
 ## 数据集：cifar-100
 
