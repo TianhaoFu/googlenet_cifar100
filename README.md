@@ -2,9 +2,9 @@
 
 googlenet的Pytorch实现。
 
-## 数据集：cifar-100
+## 1-数据集：cifar-100
 
-## 参数(name	value)
+## 2-参数(name	value)
 
 
 Model structure：	Googlenet
