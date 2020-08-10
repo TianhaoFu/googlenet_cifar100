@@ -17,9 +17,7 @@ epoch(lr = 0.0004)：	40
 
 epoch(lr = 0.00008)：	40
 
-total epoch：	200（41）
-
-实际训练时因google colabGPU只能连续90min训练模型，因此模型训练到accuracy为70%左右(41个epoch)即暂停训练
+total epoch：	200（41） 【实际训练时因google colabGPU只能连续90min训练模型，因此模型训练到accuracy为70%左右(41个epoch)即暂停训练】
 
 Batchsize：	32
 
